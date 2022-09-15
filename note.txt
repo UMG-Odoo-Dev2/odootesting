@@ -1,0 +1,33 @@
+
+What is ERP?
+
+Enterprise Resource Planning
+Business Process Management Software
+
+
+
+Human Resource Management System (HRMS)
+Point Of Sale (POS)
+Fleet Management System (FMS)
+Hotal Management System (HMS)
+Asset Management System (AMS)
+Customer Management System (CRMS)
+Document Management System (DMS)
+E-Commerence
+
+
+-Information
+-Control
+-Management
+-Core
+
+
+Human Resource Information System (HRIS)
+Human Resource Control System (HRCS)
+Human Resource Management System (HRMS)
+
+
+Git Command
+
+git clone <Repo Name>
+
