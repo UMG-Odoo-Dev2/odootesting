@@ -31,3 +31,11 @@ Git Command
 
 git clone <Repo Name>
 
+git add .
+git add <Folder Patch>
+
+git commit -m "Commit Message"
+
+git push origin main
+
+
